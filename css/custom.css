@@ -1,0 +1,40 @@
+/***
+ * custom.css - style edits on top of bootstrap
+ */
+
+.center {
+    margin: auto;
+    width: 60%;
+    padding-left: 8%;
+}
+
+.sponsor {
+    height: 70px;
+}
+
+.social {
+    height: 50px;
+}
+
+.opaque {
+    opacity: 0.3;
+    filter: alpha(opacity=30); /* For IE8 and earlier */
+}
+
+.footer {
+    background: #555;
+    color: white;
+}
+
+div.copyright {
+    background: #333;
+}
+
+p.copyright {
+    color: white;
+    padding-top: 8px;
+}
+
+li {
+    padding: 5px;
+}
