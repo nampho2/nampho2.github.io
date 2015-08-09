@@ -1,6 +1,49 @@
-/***
+/**
  * custom.css - style edits on top of bootstrap
  */
+
+body {
+    font-size: 175%;
+}
+
+.loading {
+    background: url('/img/loading-sun.gif') no-repeat;
+    top: 50%;
+    transform: translateY(70%);
+}
+
+.loaded {
+    //opacity: 0;
+}
+
+.section {
+    transition-delay: .2s;
+    
+    opacity: .5;
+    -webkit-transition:opacity .6s;
+    -moz-transition:opacity .6s;
+    -o-transition:opacity .6s;
+    transition: opacity .6s;
+}
+
+hr {
+    border-color: #777;
+    border-width: 5px 0px 0px;
+    max-width: 250px;    
+}
+
+.page-scroll a {
+    font-size: larger;
+
+    position: relative;
+    top: 50%;
+    transform: translateY(10%);    
+}
+
+.solid {
+    opacity: 1;
+    z-index: 100;
+} 
 
 .center {
     margin: auto;

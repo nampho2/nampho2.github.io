@@ -1,0 +1,38 @@
+/** 
+ * background.css - jumbotron backgrounds 
+ */ 
+
+.jumbo-text {
+    position: relative;
+    top: 50%;
+    transform: translateY(70%);
+}
+
+.jumbo-mdc {
+    width: 100vw;
+    height: 100vh;
+    display: block;
+    position: relative;
+}
+
+.jumbo-mdc::after {
+    content: "";
+    background-attachment: fixed;
+    background-image: url('/img/mdc-low.jpg'); 
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+
+    background-size: cover;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+
+    opacity: 0.30;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+}
