@@ -1,0 +1,11 @@
+{
+    "name": "websiteBuild",
+    "version": "1.0.0",
+    "description": "A personal website proj",
+    "author": "zhangxu <welling97@163.com>",
+    "license": "MIT",    
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/zhangxu31/fork2learn.github.io.git"
+      }
+}
