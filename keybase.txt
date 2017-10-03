@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/nampho
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nampho.me
+  * I am nampho (https://keybase.io/nampho) on keybase.
+  * I have a public key ASBnnvPHVDZFhDA6u0rLwdOFkS35nqFAFS8beNdyitJ0Mwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120679ef3c754364584303abb4acbc1d385912df99ea140152f1b78d7728ad274330a",
+      "host": "keybase.io",
+      "kid": "0120679ef3c754364584303abb4acbc1d385912df99ea140152f1b78d7728ad274330a",
+      "uid": "c9b43723724ffa0f9fa9f27e78886919",
+      "username": "nampho"
+    },
+    "merkle_root": {
+      "ctime": 1507057641,
+      "hash": "98e76dbfcfb8e2c9218ff1fd1669525f8a75685e280f2e1d100c5de9cef05aa1c157ad226cf32e0a726c46ef79ae411144a5d6d1b92ea6cda053d93311c1f4c4",
+      "hash_meta": "9464dcdeecd94fdca2a2115cc905bd5b09486ece4f61f78fede88171072b4dd1",
+      "seqno": 1490617
+    },
+    "service": {
+      "hostname": "nampho.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.32"
+  },
+  "ctime": 1507057657,
+  "expire_in": 504576000,
+  "prev": "9e1eb0a79cbccb20a604c75312e679f5769b36becb3c69b3d46de64370b3e5ed",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZ57zx1Q2RYQwOrtKy8HThZEt+Z6hQBUvG3jXcorSdDMKp3BheWxvYWTFA0B7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNjc5ZWYzYzc1NDM2NDU4NDMwM2FiYjRhY2JjMWQzODU5MTJkZjk5ZWExNDAxNTJmMWI3OGQ3NzI4YWQyNzQzMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNjc5ZWYzYzc1NDM2NDU4NDMwM2FiYjRhY2JjMWQzODU5MTJkZjk5ZWExNDAxNTJmMWI3OGQ3NzI4YWQyNzQzMzBhIiwidWlkIjoiYzliNDM3MjM3MjRmZmEwZjlmYTlmMjdlNzg4ODY5MTkiLCJ1c2VybmFtZSI6Im5hbXBobyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwNzA1NzY0MSwiaGFzaCI6Ijk4ZTc2ZGJmY2ZiOGUyYzkyMThmZjFmZDE2Njk1MjVmOGE3NTY4NWUyODBmMmUxZDEwMGM1ZGU5Y2VmMDVhYTFjMTU3YWQyMjZjZjMyZTBhNzI2YzQ2ZWY3OWFlNDExMTQ0YTVkNmQxYjkyZWE2Y2RhMDUzZDkzMzExYzFmNGM0IiwiaGFzaF9tZXRhIjoiOTQ2NGRjZGVlY2Q5NGZkY2EyYTIxMTVjYzkwNWJkNWIwOTQ4NmVjZTRmNjFmNzhmZWRlODgxNzEwNzJiNGRkMSIsInNlcW5vIjoxNDkwNjE3fSwic2VydmljZSI6eyJob3N0bmFtZSI6Im5hbXBoby5tZSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMyIn0sImN0aW1lIjoxNTA3MDU3NjU3LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjllMWViMGE3OWNiY2NiMjBhNjA0Yzc1MzEyZTY3OWY1NzY5YjM2YmVjYjNjNjliM2Q0NmRlNjQzNzBiM2U1ZWQiLCJzZXFubyI6MTMsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAXoHFeqKWpbB/uI9JTlBeHyUyUTfFG1TbRDbRaqtvCSHDI0XYGZaLqMoeJgCcuYaDD6mCiY5K9jLax1uXhkG4DahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIC1BWvIlSo9g5JQXA+peutx4Q+Ngw0YdjYNuGmmi0FgWo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nampho
+
+==================================================================
