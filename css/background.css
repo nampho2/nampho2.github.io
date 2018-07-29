@@ -17,6 +17,7 @@
 
 .jumbo-mdc::after {
     content: "";
+    background-color: white;
     background-attachment: fixed;
     background-image: url('/img/mdc-low.jpg'); 
     background-repeat: no-repeat;
@@ -28,11 +29,11 @@
     -moz-background-size: cover;
     -webkit-background-size: cover;
 
-    opacity: 0.30;
+    opacity: 0.70;
     top: 0;
     left: 0;
     bottom: 0;
     right: 0;
     position: absolute;
-    z-index: -1;
+    z-index: -10;
 }
